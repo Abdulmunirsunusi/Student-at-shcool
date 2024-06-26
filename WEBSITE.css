@@ -1,0 +1,255 @@
+
+*{
+    margin: 0;
+    padding: 0;
+}
+.Features{
+    background:linear-gradient(rgba(0,0,0,0.3),#003600),url(images\ \(20\).jpeg);
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    display: block;
+}
+.logo{
+    width: 140px;
+} 
+.banner h1{
+    text-align: center;
+    color: white;
+    font-family: italic;
+    font-size: 50px;
+}
+.banner p{
+    text-align: center;
+    color: white;
+}
+.button a {
+    text-align: center;
+    text-decoration: none;
+    color: rgb(250, 248, 248);
+    border: 1px solid white;
+    padding: 10px;
+    
+}
+.button a:hover{
+    background-color:rgb(252, 252, 252);
+    color: black;
+}
+.nav{
+    background-color: rgb(31, 136, 136);
+    position: absolute;
+    bottom: 100px;
+    left: 1163px;
+    width: 100px;
+    height: 605px;
+    top: 0px;
+}
+.nav a:hover{
+    border-bottom: 4px solid white;
+}
+ul li a:hover{
+    border-bottom: 4px solid red;
+} 
+.nav a{
+    text-decoration: none;
+    color: rgb(250, 248, 248);
+    position: absolute;
+    left: 5px;
+    
+}
+.Out{
+    text-align: center;
+    margin-top: 10px;
+}
+.Out p{
+    color: rgb(43, 180, 234);
+}
+.Out h3{
+    font-size: 30px;
+}
+.pic1 img{
+    height: 500px;
+    width: 250px;
+    margin-left: 850px;
+}
+.hec h4{
+    position: absolute;
+    bottom: 100px;
+    top: 750px;
+    margin-left: 300px;
+    color: rgb(26, 244, 244);
+}
+.hec p{
+    position: absolute;
+    bottom: 100px;
+    top: 780px;
+    margin-left: 300px;
+}
+.thec h4{
+    position: absolute;
+    bottom: 100px;
+    top: 850px;
+    margin-left: 300px;
+    color: rgb(26, 244, 244);
+}
+.thec p{
+    position: absolute;
+    bottom: 100px;
+    top: 880px;
+    margin-left: 300px;
+}
+.fhec h4{
+        position: absolute;
+        bottom: 100px;
+        top: 950px;
+        margin-left: 300px;
+        color: rgb(26, 244, 244);
+}
+.fhec p{
+    position: absolute;
+    bottom: 100px;
+    top: 980px;
+    margin-left: 300px;
+}
+.center{
+    background-color: lavenderblush;
+    height: 770px;
+}
+.center p{
+    margin-left: 540px;
+}
+.center h3{
+    margin-left: 470px;
+    font-size: 30px;
+}
+.images img{
+        margin-top: 30px;
+        margin-left: 250px;
+        width: 400px;
+        height: 310px;
+}
+.image22 img{
+    margin-left: 700px;
+    margin-top: -30.5rem;
+    width: 400px;
+    height: 330px;
+}
+.image16 img{
+    margin-left: 250px;
+    margin-top: 10px;
+    width: 400px;
+    height: 300px;
+}
+.image26 img{
+    margin-left: 700px;
+    margin-top: -30.5rem;
+    width: 400px;
+    height: 300px;
+}
+.client p{
+    margin-left: 540px;
+    color: rgb(114, 207, 176);
+}
+.client h3{
+    margin-left: 470px;
+    font-size: 30px;
+}
+.image25 img{
+    float:right;
+    width: 100px;
+    margin-right: 250px;
+    margin-top: 180px;
+    position: relative;
+    bottom: 60px;
+}
+.image28 img{
+    margin-left: 500px;
+    width: 100px;
+}
+.image27 img{
+    position: relative;
+    bottom: 170px;
+    width: 100px;
+    margin-left: 50px;
+    height: 60px;
+}
+.std p{
+    margin-left: 160px;
+    position: relative;
+    top: 110px;
+    color: rgb(82, 223, 223);
+}
+.std h4{
+    margin-left: 160px;
+    position: relative;
+    top: 110px;
+}
+.std span{
+    position: relative;
+    top: 130px;
+    left: 50px;
+}
+.stdn h4{
+    position: relative;
+    left: 605px;
+    bottom: 65px;
+}
+.stdn p{
+    position: relative;
+    left: 65px;
+    bottom: 65px;
+}
+.stdn span{
+    position: relative;
+    left: 497px;
+    bottom: 40px;
+}
+.stdnt h4{
+    position: relative;
+    left: 1020px;
+    bottom:243px;
+}
+.stdnt p{
+    position: relative;
+    left: 480px;
+    bottom: 245px;
+}
+.stdnt span{
+    position: relative;
+    left: 910px;
+    bottom: 220px;
+}
+.footer{
+    background-color: cornsilk;
+    height: 325px;
+}
+.footer p{
+    margin-left: 580px;
+    color: aqua;
+}
+.footer h3{
+    margin-left: 500px;
+    font-size: 30px;
+}
+.end{
+    margin-left: 100px;
+    margin-top: 70px;
+}
+.ending{
+    margin-left: 900px;
+    position: relative;
+    bottom: 55px;
+}
+.net{
+    display: flex;
+}
+.net img{
+    margin-left: 10px;
+    position: relative;
+    left: 510px;
+}
+.net span{
+    margin-left: 240px;
+    position: relative;
+    top: 50px;
+}
